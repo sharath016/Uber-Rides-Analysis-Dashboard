@@ -18,3 +18,6 @@ BI & Visualization: Power BI (Multi-page dashboard UI, DAX measures)  Data Proce
 4. **Rider Segmentation:** Cohort categorization into First Time (48K), Return (6K), and Regular (11K) riders.
 5. **Payment Analytics:** Share-of-wallet analysis highlighting UPI (23.3M) and Cash (12.9M) as dominant payment channels.
 6. **Quality & Transit Hotspots:** High-traffic route tracking (Khandsa, Barakhamba, Saket) alongside 4.40 Customer and 4.23 Driver average ratings.
+
+Dashboard Images
+https://github.com/sharath016/Uber-Rides-Analysis-Dashboard/tree/2be93b4c993b9b02afa3fe0386793c25ec8ed693/Screenshots
