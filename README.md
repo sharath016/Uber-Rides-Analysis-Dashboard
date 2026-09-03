@@ -4,9 +4,11 @@
 An interactive Power BI dashboard designed to track ride-hailing operational performance, vehicle profitability, passenger retention, and temporal trip patterns across 104K+ bookings.
 
 ****Tech Stack****
-**BI & Visualization:** Power BI (Multi-page dashboard UI, DAX measures)  Data Processing: Power Query / SQL
+
+BI & Visualization: Power BI (Multi-page dashboard UI, DAX measures)  Data Processing: Power Query / SQL
 
 ****Data Source****
+
 **Uber Booking Records:** Granular trip-level dataset covering 104K+ rides across 12 months, tracking trip status, pickup/drop locations, distances, vehicle classes, customer/driver ratings, and payment channels.
 
 ****Features & Highlights****
